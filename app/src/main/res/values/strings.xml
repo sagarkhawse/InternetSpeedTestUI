@@ -1,0 +1,24 @@
+<resources>
+    <string name="app_name">Internet Speed Test</string>
+    <string name="settings">Settings</string>
+
+    <string name="download">Download</string>
+    <string name="upload">Upload</string>
+    <string name="mbps">mbps</string>
+    <string name="ping">PING</string>
+    <string name="max_speed">MAX SPEED</string>
+    <string name="upload_speed">UPLOAD SPEED</string>
+    <string name="download_speed">DOWNLOAD SPEED</string>
+    <string name="checking_internet_speed">Checking Internet Speed</string>
+
+    <string name="start">START</string>
+    <string name="stop">STOP</string>
+
+    <string name="network">Network</string>
+    <string name="location">Location</string>
+    <string name="speed">Speed</string>
+
+
+
+
+</resources>
